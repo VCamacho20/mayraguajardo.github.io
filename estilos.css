@@ -2,11 +2,11 @@ body{
     background-image: url(bg-img.webp);
 }
 h1 {
-    color: #b8407b !important;
-    background-color: #e3ddf8;
+    color: #b8607b !important;
+    background-color: #egddf8;
     text-align: center;
 }
 p{
     font-size: 150%;
-    background-color: aquamarine;
+    background-color: red;
 }
